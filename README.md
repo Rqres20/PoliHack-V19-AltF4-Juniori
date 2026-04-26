@@ -1,5 +1,6 @@
 # PoliHack-V19-AltF4-Juniori
 PoliHack AltF4
+
 Nature Defense Network (NDN)
 Sistem IoT pentru Monitorizarea si Prevenirea Dezastrelor Naturale
 Nature Defense Network este o solutie de monitorizare ambientala in timp real, conceputa pentru a detecta semnele timpurii ale dezastrelor naturale (incendii de padure, inundatii, alunecari de teren) si pentru a oferi date precise despre locatia incidentului prin GPS.
